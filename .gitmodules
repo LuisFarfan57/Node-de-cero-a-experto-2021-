@@ -13,3 +13,6 @@
 [submodule "08-websocket-server"]
 	path = 08-websocket-server
 	url = https://github.com/LuisFarfan57/Node-de-cero-a-experto-2021/08-websocket-server
+[submodule "curso-node-1-tabla"]
+	path = curso-node-1-tabla
+	url = https://github.com/LuisFarfan57/curso-node-1-tabla.git
