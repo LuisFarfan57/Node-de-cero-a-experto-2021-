@@ -12,7 +12,10 @@
 	url = https://github.com/LuisFarfan57/Node-de-cero-a-experto-2021/07-rest-server
 [submodule "08-websocket-server"]
 	path = 08-websocket-server
-	url = https://github.com/LuisFarfan57/Node-de-cero-a-experto-2021/08-websocket-server
+	url = https://github.com/LuisFarfan57/08-websocket-server.git
 [submodule "curso-node-1-tabla"]
 	path = curso-node-1-tabla
 	url = https://github.com/LuisFarfan57/curso-node-1-tabla.git
+[submodule "PlantillaExpressREST"]
+	path = PlantillaExpressREST
+	url = https://github.com/LuisFarfan57/PlantillaExpressREST.git
