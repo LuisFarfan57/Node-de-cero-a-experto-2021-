@@ -1,3 +1,6 @@
 [submodule "03-bases-node"]
 	path = 03-bases-node
 	url = https://github.com/LuisFarfan57/Node-de-cero-a-experto-2021/03-bases-node
+[submodule "06-web-server"]
+	path = 06-web-server
+	url = https://github.com/LuisFarfan57/Node-de-cero-a-experto-2021/06-web-server
