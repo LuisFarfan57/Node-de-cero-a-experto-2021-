@@ -4,3 +4,6 @@
 [submodule "06-web-server"]
 	path = 06-web-server
 	url = https://github.com/LuisFarfan57/Node-de-cero-a-experto-2021/06-web-server
+[submodule "05-geolocalizacion"]
+	path = 05-geolocalizacion
+	url = https://github.com/LuisFarfan57/Node-de-cero-a-experto-2021/05-geolocalizacion
