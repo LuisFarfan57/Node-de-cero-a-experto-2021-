@@ -7,3 +7,9 @@
 [submodule "05-geolocalizacion"]
 	path = 05-geolocalizacion
 	url = https://github.com/LuisFarfan57/Node-de-cero-a-experto-2021/05-geolocalizacion
+[submodule "07-rest-server"]
+	path = 07-rest-server
+	url = https://github.com/LuisFarfan57/Node-de-cero-a-experto-2021/07-rest-server
+[submodule "08-websocket-server"]
+	path = 08-websocket-server
+	url = https://github.com/LuisFarfan57/Node-de-cero-a-experto-2021/08-websocket-server
